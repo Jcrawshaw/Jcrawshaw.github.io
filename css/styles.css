@@ -1,3 +1,4 @@
+/* Overall styles */
 body {
   font-family: 'Lato', sans-serif;
   color: #747704;
@@ -18,6 +19,7 @@ body {
   font-size: 55px;
 }
 
+/* Header Sytles */
 .title-logo {
   margin-top: 20px;
 }
@@ -32,10 +34,35 @@ hr {
 border-width: 5px;
 }
 
+/* Intro Styling */
+
+.jumbotron {
+  background-image: url("../images/Screenshot.png");
+  background-size: cover;
+}
+
+.intro-head {
+  font-family: 'Homemade Apple', cursive;
+  font-size: 3em;
+  color: white;
+}
+
+.intro-p {
+  color: white;
+}
+
+.main-header {
+  background-color: rgba(0, 0, 0, 0.7);
+  /*padding: 2px, 0, 1px, 8px;*/
+  }
+
+/* Feature app styling */
+
 .app-image {
   box-shadow: 3px 3px 1px #BCB888;
 }
 
+/* Footer Sytling */
 .footer {
   margin-top: 25px;
 }
