@@ -49,6 +49,8 @@ border-width: 5px;
 
 .intro-p {
   color: white;
+  font-weight: 300;
+  font-size: 1.5em;
 }
 
 .main-header {
