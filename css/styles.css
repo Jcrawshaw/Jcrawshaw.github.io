@@ -37,7 +37,8 @@ border-width: 5px;
 /* Intro Styling */
 
 .jumbotron {
-  background-image: url("../images/Screenshot.png");
+  
+  background-image: url("../images/banner1.jpg");
   background-size: cover;
 }
 
@@ -45,17 +46,19 @@ border-width: 5px;
   font-family: 'Homemade Apple', cursive;
   font-size: 3em;
   color: white;
+  padding: .5em;
 }
 
 .intro-p {
   color: white;
   font-weight: 300;
   font-size: 1.5em;
+  padding: .5em;
 }
 
 .main-header {
   background-color: rgba(0, 0, 0, 0.7);
-  /*padding: 2px, 0, 1px, 8px;*/
+  padding: 2px, 0, 1px, 8px;
   }
 
 /* Feature app styling */
